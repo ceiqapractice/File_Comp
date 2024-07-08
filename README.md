@@ -22,19 +22,22 @@ The project consists of two main functionalities:
 
 1. **Clone the Repository:**
      ```bash
-            https://github.com/ceiqapractice/File_Comp.git
-            cd ImageTemplateMatching
+      https://github.com/ceiqapractice/File_Comp.git
+      cd ImageTemplateMatching
 2. **Restore Dependencies:**
      ```bash
-            dotnet restore
+      dotnet restore
 3. **Install Playwright:**
      ```bash
-            playwright install
+      playwright install
 4. **Build and Run:**
      ```bash
-            dotnet build
-            dotnet run
-Usage
+      dotnet build
+      dotnet run
+5. **Output:**
+
+![image](https://github.com/ceiqapractice/File_Comp/assets/110914539/34dd3246-d854-40ca-b06a-714a746a727b)
+        
 ## USAGE
 
 1. Replace index.html with your own HTML file to test different scenarios.
