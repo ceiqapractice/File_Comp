@@ -22,7 +22,7 @@ The project consists of two main functionalities:
 
 1. **Clone the Repository:**
      ```bash
-            git clone https://github.com/your-username/ImageTemplateMatching.git
+            https://github.com/ceiqapractice/File_Comp.git
             cd ImageTemplateMatching
 2. **Restore Dependencies:**
      ```bash
