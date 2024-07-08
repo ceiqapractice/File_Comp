@@ -60,7 +60,7 @@ class Program
         {
             var topLeft = maxLoc;
             var bottomRight = new Point(topLeft.X + image.Width, topLeft.Y + image.Height);
-            Cv2.Rectangle(screenshot, topLeft, bottomRight, Scalar.Green, 2);
+            Cv2.Rectangle(screenshot, topLeft, bottomRight, Scalar.Green, 4);
         }
 
         // Display result using OpenCvSharp
