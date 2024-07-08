@@ -37,6 +37,14 @@ The project consists of two main functionalities:
 5. **Output:**
 
 ![image](https://github.com/ceiqapractice/File_Comp/assets/110914539/34dd3246-d854-40ca-b06a-714a746a727b)
+
+5. **Explanation:**
+
+Main Method: The entry point of the program. It sets up paths for the HTML file, screenshot, and image template, then calls the functions to capture the screenshot and perform image template matching.
+
+CaptureScreenshotOfLocalHtml Method: Uses Playwright to launch a headless Chromium browser, navigate to a local HTML file (index.html), and capture a screenshot (screenshot.png).
+
+FindAndDisplayImageInScreenshot Method: Uses OpenCvSharp to read the screenshot and image template, perform template matching, highlight the matched area (if any), and display the images using OpenCV functions.
         
 ## USAGE
 
