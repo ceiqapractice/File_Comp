@@ -22,18 +22,18 @@ The project consists of two main functionalities:
 
 1. **Clone the Repository:**
      ```bash
-   git clone https://github.com/your-username/ImageTemplateMatching.git
-   cd ImageTemplateMatching
+            git clone https://github.com/your-username/ImageTemplateMatching.git
+            cd ImageTemplateMatching
 2. **Restore Dependencies:**
      ```bash
-   dotnet restore
+            dotnet restore
 3. **Install Playwright:**
      ```bash
-  playwright install
+            playwright install
 4. **Build and Run:**
      ```bash
-  dotnet build
-  dotnet run
+            dotnet build
+            dotnet run
 Usage
 ## USAGE
 
